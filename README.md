@@ -1,358 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=NIKITA%20NALE&fontSize=55&fontColor=ffffff&animation=fadeIn&stroke=00ff88&strokeWidth=1&color=0:050505,100:111111" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b3d2e,100:00ff88&text=NIKITA%20NALE&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%C2%B7%20Hackathon%20Winner&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-### `computer_engineering.exe`
+<a href="https://github.com/NikitaNale06">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+things.;Breaking+things.;Understanding+why.;Building+them+better." alt="Typing SVG" />
+</a>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-NikitaNale06-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NikitaNale06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Location](https://img.shields.io/badge/Pune-India-111111?style=for-the-badge&logo=googlemaps&logoColor=00ff88)](#)
+
+</div>
+
+<br>
+
+## 👩‍💻 About Me
 
 ```text
 nikita@dev:~$ ./status
 
-[+] Computer Engineering @ AISSMS IOIT
-[+] Full-Stack Developer
-[+] Hackathon Builder
-[+] Backend + Security
+[+] B.Tech Computer Engineering (2nd Year) @ AISSMS IOIT
+[+] Full-Stack Developer Intern @ Deavnet Solutions
+[+] 🏆 State-Level Hackathon Winner
+[+] Focus: Backend · DSA · Security
 
-status: ONLINE
+status: ONLINE 🟢
 ```
 
-**Building things, breaking things, understanding why, and building them better.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-NikitaNale06-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/NikitaNale06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Nale-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Location](https://img.shields.io/badge/Pune-India-111111?style=flat-square\&logo=googlemaps\&logoColor=white)](#)
-
-</div>
-
----
-
-## `01 // PROFILE`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `WHOAMI`
-
-Computer Engineering student who enjoys building **real applications**, especially where frontend, backend, databases and real-world problems meet.
-
-Currently exploring:
-
-`Backend Development` · `DSA` · `Security`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `QUICK INFO`
-
-🎓 **B.Tech — Computer Engineering**
-📍 **Pune, India**
-💻 **Full-Stack Development**
-🏆 **Hackathon Builder**
-🔐 **Security Curious**
-
-**Experience:** Full-Stack Developer Intern
-**Education:** Government Polytechnic, Pune — `93.64%`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `02 // STACK`
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### LANGUAGES
-
-`C`
-`C++`
-`Python`
-`Java`
-`JavaScript`
-
-</td>
-
-<td align="center" width="20%">
-
-### FRONTEND
-
-`React`
-`Next.js`
-`HTML`
-`CSS`
-
-</td>
-
-<td align="center" width="20%">
-
-### BACKEND
-
-`FastAPI`
-`REST APIs`
-
-</td>
-
-<td align="center" width="20%">
-
-### DATABASE
-
-`PostgreSQL`
-`Supabase`
-
-</td>
-
-<td align="center" width="20%">
-
-### TOOLS
-
-`Git`
-`GitHub`
-`VS Code`
-
-</td>
-
-</tr>
-</table>
-
-<details>
-<summary><b>More about my fundamentals →</b></summary>
+I enjoy building **real applications** where frontend, backend, databases and real-world problems meet. I like understanding *how things work underneath*, not just calling APIs.
 
 <br>
 
-`DSA` · `DBMS` · `OOP` · `Problem Solving`
-
-> 
-
-</details>
-
----
-
-# `03 // BUILDS`
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td>
 
+### 🏛️ NCDC E-Loan Samiksha &nbsp;![Live](https://img.shields.io/badge/STATUS-LIVE-00ff88?style=flat-square)
+
+**Government loan-recovery portal for cooperative sugar factories**
+
+Built during my internship, a **live project** managing NCDC-financed loan workflows for cooperative sugar factories.
+
+**Role-based access for:** `Admin` · `Factory` · `Auditor` · `RID` · `State Officer`
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-## `01 — VAULTPAY`
+### 💳 VaultPay
 
 **Backend-focused digital payment system**
 
-A project built to understand how a backend works beyond simply calling APIs.
+Built to understand how a backend really works.
 
-**Focus**
+- 🔐 Authentication
+- 🔁 Transactions
+- 🗄️ Database design
+- 🧱 REST API architecture
 
-* Authentication
-* REST APIs
-* Transactions
-* Database design
-* Backend architecture
-
-**Stack**
-
-`Java` `Spring Boot` `PostgreSQL`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
-## `02 — TALKGENIUS`
+### 🎙️ TalkGenius
 
-**AI-powered communication platform**
+**AI-powered communication practice platform**
 
-An interactive platform for practicing communication through AI-based roleplay and feedback.
+Practice speaking through AI roleplay and feedback.
 
-**Features**
+- 🎭 AI Roleplay
+- 🗣️ Debate & Group Discussion
+- 🎧 Voice analysis
+- 📈 Practice feedback
 
-* AI Roleplay
-* Debate
-* Group Discussion
-* Voice analysis
-* Practice feedback
-
-**Stack**
-
-`Next.js` `React` `Python` `Supabase`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
-
 </tr>
-
 <tr>
+<td colspan="2" valign="top">
 
-<td width="50%" valign="top">
+### 🌐 IoT / Cloud Experiments
 
-## `03 — NCDC E-LOAN SAMIKSHA`
-
-**Government loan-recovery system**
-
-Built during my internship for a workflow involving cooperative sugar factories and NCDC-financed loans.
-
-**Handles**
-
-`Admin` · `Factory` · `Auditor` · `RID` · `State Officer`
-
-**Stack**
-
-`FastAPI` `React` `Supabase / PostgreSQL`
+Connecting hardware with the cloud during IoT training: `Raspberry Pi Pico` · `ThingSpeak` · `Blynk` · `AWS IoT Core`
 
 </td>
-
-<td width="50%" valign="top">
-
-## `04 — IoT / CLOUD`
-
-**Hardware + cloud experimentation**
-
-Explored connecting hardware with cloud platforms during IoT training.
-
-**Worked with**
-
-`Raspberry Pi Pico`
-`ThingSpeak`
-`Blynk`
-`AWS IoT Core`
-
-</td>
-
 </tr>
 </table>
 
----
+<br>
 
-## `04 // EXPERIENCE`
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
-
-### Full-Stack Developer Intern
-
-**Deavnet Solutions Pvt. Ltd.** · `6 months`
-
-Worked in a **4-person development team**, contributing to full-stack applications and a government project.
-
-```text
-React
-  ↓
-FastAPI / Python
-  ↓
-Supabase / PostgreSQL
-  ↓
-Deployment
-```
-
-Worked with changing requirements, debugging, API development, database integration and real project workflows.
-
-</td>
-
-<td width="35%" valign="top">
-
-### `ENVIRONMENT`
-
-`React`
-
-`FastAPI`
-
-`Python`
-
-`PostgreSQL`
-
-`Supabase`
-
-`Git`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `05 // ACHIEVEMENTS`
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### 🏆 VES TECHNITHON 2026
-
-**Winner — Grand Finale**
-
-24-hour
-State-Level Hackathon
-
-</td>
-
-<td align="center" width="50%">
-
-### 🥈 DIPEX 2026
-
-**2nd Prize**
-
-Open Innovation
-State-Level Competition
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `06 // CURRENTLY`
+## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,supabase&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br>
+
+`DSA` · `DBMS` · `OOP` · `REST APIs` · `Problem Solving`
+
+</div>
+
+<br>
+
+## 💼 Experience
+
+**Full-Stack Developer Intern** · Deavnet Solutions Pvt. Ltd. · `6 months`
+
+- Worked in a **4-person team** on full-stack applications, including a government project
+- Handled changing requirements, debugging, API development and database integration
+- Followed the full flow: `React` → `FastAPI` → `Supabase / PostgreSQL` → `Deployment`
+
+<br>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 **VES Technithon 2026** | 🥈 **DIPEX 2026** |
+|:---:|:---:|
+| **Winner, Grand Finale** | **2nd Prize** |
+| 24-hour state-level hackathon | Open Innovation, state-level |
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NikitaNale06&show_icons=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaNale06&layout=compact&theme=transparent&title_color=00ff88&text_color=c9d1d9&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=NikitaNale06&theme=dark&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&hide_border=true" />
+
+</div>
+
+<br>
+
+## 🌱 Currently Learning
 
 ```text
 nikita@dev:~/learning$ cat current.log
 
 → DSA
-→ Backend Development
+→ Backend Development & API Design
 → Database Design
-→ API Development
 → Security Fundamentals
 → Open Source
-→ Better Projects
 
 [ still building... ]
 ```
 
-</div>
-
----
-
-## `07 // BUILD LOOP`
+<br>
 
 <div align="center">
 
 `IDEA` → `BUILD` → `BREAK` → `DEBUG` → `UNDERSTAND` → `REBUILD`
 
-### `BUILD. BREAK. DEBUG. REPEAT.`
+**Open to internships and collaborations. Let's build something interesting.**
 
-</div>
-
----
-
-<div align="center">
-
-### `nikita@dev:~$ echo "let's build something interesting."`
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/@NikitaNale06-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NikitaNale06)
-
-<br><br>
-
-`Computer Engineering` · `Pune, India` · `2026`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00ff88,50:0b3d2e,100:050505&section=footer" width="100%"/>
 
 </div>
