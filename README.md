@@ -16,31 +16,27 @@
 
 <br>
 
-## 👩‍💻 About
-
-2nd-year B.Tech Computer Engineering student at AISSMS IOIT, Pune. I build practical full-stack applications and enjoy figuring out what happens behind the UI — APIs, databases, backend logic and security.
+2nd-year B.Tech Computer Engineering student at AISSMS IOIT, Pune. I build practical full-stack applications and enjoy figuring out what happens behind the UI: APIs, databases, backend logic and security.
 
 <br>
 
-## 🏆 Achievements
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🥇 **VES Technithon 2026** | 🥈 **DIPEX 2026** | 💼 **Internship** |
-|:---:|:---:|:---:|
-| **Winner, Grand Finale**<br>24-hour state-level hackathon | **2nd Prize**<br>Open Innovation, state-level | **Full-Stack Developer Intern**<br>Deavnet Solutions · 6 months · 4-person team |
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,fastapi,spring,postgres,supabase,git&theme=dark" />
 
 </div>
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Builds
 
 <table>
 <tr>
 <td>
 
-### 🏛️ NCDC E-Loan Samiksha &nbsp;
+### 🏛️ NCDC E-Loan Samiksha
 
 **Government loan-recovery portal for cooperative sugar factories**
 
@@ -88,13 +84,32 @@ AI roleplay, debate, group discussion and voice analysis with feedback.
 
 <br>
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-<div align="center">
+**Full-Stack Developer Intern** · Deavnet Solutions Pvt. Ltd. · `6 months`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,fastapi,spring,postgres,supabase,git&theme=dark" />
+- Worked in a 4-person team on full-stack applications, including a government project
+- Built APIs, integrated databases and handled changing requirements and debugging
+- Worked across `React` → `FastAPI` → `Supabase / PostgreSQL` → `Deployment`
 
-</div>
+<br>
+
+## 🏆 Achievements
+
+- 🥇 **Winner, VES Technithon 2026**: 24-hour state-level hackathon, Grand Finale
+- 🥈 **2nd Prize, DIPEX 2026**: Open Innovation, state-level
+
+<br>
+
+## 🌱 Currently Building
+
+```text
+→ DSA
+→ Backend development and API design
+→ Security fundamentals
+→ Open source
+→ Better projects
+```
 
 <br>
 
