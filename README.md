@@ -287,27 +287,6 @@ Mine is usually closer to:
 
 That's probably where I've learned the most.
 
----
-
-# `08 // TERMINAL`
-
-```bash
-nikita@dev:~$ git status
-
-On branch main
-
-Changes not staged for commit:
-
-  modified:   skills
-  modified:   projects
-  modified:   experience
-
-nothing is ever really "finished".
-
-nikita@dev:~$ _
-```
-
----
 
 <div align="center">
 
