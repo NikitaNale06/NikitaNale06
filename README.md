@@ -128,7 +128,7 @@ Currently exploring:
 
 `DSA` · `DBMS` · `OOP` · `Problem Solving`
 
-> I keep the stack here limited to technologies I actually work with.
+> 
 
 </details>
 
