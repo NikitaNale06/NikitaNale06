@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b3d2e,100:00ff88&text=NIKITA%20NALE&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%C2%B7%20Hackathon%20Winner&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b3d2e,100:00ff88&text=NIKITA%20NALE&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Building%20Real-World%20Software&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/NikitaNale06">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+things.;Breaking+things.;Understanding+why.;Building+them+better." alt="Typing SVG" />
@@ -9,7 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-NikitaNale06-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NikitaNale06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-nale-602538318)
 [![Location](https://img.shields.io/badge/Pune-India-111111?style=for-the-badge&logo=googlemaps&logoColor=00ff88)](#)
 
 </div>
@@ -23,7 +23,7 @@ nikita@dev:~$ ./status
 
 [+] B.Tech Computer Engineering (2nd Year) @ AISSMS IOIT
 [+] Full-Stack Developer Intern @ Deavnet Solutions
-[+] 🏆 State-Level Hackathon Winner
+[+] Shipped a live government project
 [+] Focus: Backend · DSA · Security
 
 status: ONLINE 🟢
@@ -148,14 +148,13 @@ Connecting hardware with the cloud during IoT training: `Raspberry Pi Pico` · `
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NikitaNale06&show_icons=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaNale06&layout=compact&theme=transparent&title_color=00ff88&text_color=c9d1d9&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=NikitaNale06&theme=dark&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/NikitaNale06?style=for-the-badge&logo=github&logoColor=black&label=Followers&color=00ff88&labelColor=111111)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNikitaNale06&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=black&label=Public%20Repos&color=00ff88&labelColor=111111)
+![Profile Views](https://komarev.com/ghpvc/?username=NikitaNale06&style=for-the-badge&color=00ff88&label=Profile+Views&labelColor=111111)
 
 </div>
 
