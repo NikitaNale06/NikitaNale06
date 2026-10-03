@@ -80,9 +80,6 @@ I like understanding what happens **behind the screen** — APIs, databases, aut
 
 `DSA` · `DBMS` · `OOP` · `Problem Solving`
 
-> No 30-item skill cloud here.
-> If I can't explain it or build with it, it doesn't belong on this profile.
-
 ---
 
 # `03 // BUILDS`
