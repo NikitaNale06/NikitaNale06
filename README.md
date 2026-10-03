@@ -1,195 +1,244 @@
 <div align="center">
 
-# `NIKITA NALE`
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=NIKITA%20NALE&fontSize=55&fontColor=ffffff&animation=fadeIn&stroke=00ff88&strokeWidth=1&color=0:050505,100:111111" width="100%"/>
 
 ### `computer_engineering.exe`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ whoami                                                   │
-│                                                              │
-│   nikita                                                     │
-│                                                              │
-│   $ cat /etc/profile                                         │
-│                                                              │
-│   Computer Engineering student @ AISSMS IOIT                 │
-│   Full-stack developer                                      │
-│   Hackathon builder                                         │
-│   Backend & security curious                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+nikita@dev:~$ ./status
+
+[+] Computer Engineering @ AISSMS IOIT
+[+] Full-Stack Developer
+[+] Hackathon Builder
+[+] Backend + Security
+
+status: ONLINE
 ```
 
-**I build things, break things, and then figure out why they broke.**
+**Building things, breaking things, understanding why, and building them better.**
 
-[ GitHub ] · [ LinkedIn ] · [ Projects ]
+[![GitHub](https://img.shields.io/badge/GitHub-NikitaNale06-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/NikitaNale06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita_Nale-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![Location](https://img.shields.io/badge/Pune-India-111111?style=flat-square\&logo=googlemaps\&logoColor=white)](#)
 
 </div>
 
 ---
 
-## `01 // ABOUT`
+## `01 // PROFILE`
 
-I'm a Computer Engineering student from Pune who enjoys building **real applications instead of just collecting tutorials**.
+<table>
+<tr>
 
-My current interests sit somewhere between:
+<td width="50%" valign="top">
 
-```text
-        FRONTEND
-           │
-           ▼
-      ┌─────────┐
-      │   API   │
-      └─────────┘
-           │
-           ▼
-       DATABASE
-           │
-           ▼
-       SECURITY
-```
+### `WHOAMI`
 
-I like understanding what happens **behind the screen** — APIs, databases, authentication, application logic, debugging and the decisions that make a system actually work.
+Computer Engineering student who enjoys building **real applications**, especially where frontend, backend, databases and real-world problems meet.
+
+Currently exploring:
+
+`Backend Development` · `DSA` · `Security`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `QUICK INFO`
+
+🎓 **B.Tech — Computer Engineering**
+📍 **Pune, India**
+💻 **Full-Stack Development**
+🏆 **Hackathon Builder**
+🔐 **Security Curious**
+
+**Experience:** Full-Stack Developer Intern
+**Education:** Government Polytechnic, Pune — `93.64%`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## `02 // STACK`
 
-### `LANGUAGES`
+<table>
+<tr>
 
-`C` · `C++` · `Python` · `Java` · `JavaScript`
+<td align="center" width="20%">
 
-### `WEB`
+### LANGUAGES
 
-`React` · `Next.js` · `HTML` · `CSS`
+`C`
+`C++`
+`Python`
+`Java`
+`JavaScript`
 
-### `BACKEND`
+</td>
 
-`FastAPI` · `REST APIs`
+<td align="center" width="20%">
 
-### `DATABASE`
+### FRONTEND
 
-`PostgreSQL` · `Supabase`
+`React`
+`Next.js`
+`HTML`
+`CSS`
 
-### `TOOLS`
+</td>
 
-`Git` · `GitHub` · `VS Code`
+<td align="center" width="20%">
 
-### `FOUNDATION`
+### BACKEND
+
+`FastAPI`
+`REST APIs`
+
+</td>
+
+<td align="center" width="20%">
+
+### DATABASE
+
+`PostgreSQL`
+`Supabase`
+
+</td>
+
+<td align="center" width="20%">
+
+### TOOLS
+
+`Git`
+`GitHub`
+`VS Code`
+
+</td>
+
+</tr>
+</table>
+
+<details>
+<summary><b>More about my fundamentals →</b></summary>
+
+<br>
 
 `DSA` · `DBMS` · `OOP` · `Problem Solving`
+
+> I keep the stack here limited to technologies I actually work with.
+
+</details>
 
 ---
 
 # `03 // BUILDS`
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## `01 — VAULTPAY`
 
-> **A backend-focused digital payment system.**
+**Backend-focused digital payment system**
 
-VaultPay is one of my projects for understanding how a real backend is structured rather than treating an API as a black box.
+A project built to understand how a backend works beyond simply calling APIs.
 
-```text
-Client
-  │
-  ▼
-Authentication
-  │
-  ▼
-REST API
-  │
-  ├── Users
-  ├── Accounts
-  ├── Transactions
-  └── Validation
-  │
-  ▼
-Database
-```
+**Focus**
 
-**Focus:** Backend architecture · Authentication · APIs · Database design
+* Authentication
+* REST APIs
+* Transactions
+* Database design
+* Backend architecture
 
-`Java` · `Spring Boot` · `PostgreSQL`
+**Stack**
 
----
+`Java` `Spring Boot` `PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
 
 ## `02 — TALKGENIUS`
 
-> **Practice communication. Get feedback. Improve.**
+**AI-powered communication platform**
 
-An AI-powered communication practice platform built around interactive experiences rather than passive learning.
+An interactive platform for practicing communication through AI-based roleplay and feedback.
 
-```text
-ROLEPLAY
-   │
-   ├── Voice
-   ├── Conversation
-   ├── Feedback
-   └── Performance
-          │
-          ▼
-       ANALYSIS
-          │
-          ▼
-       IMPROVEMENT
-```
+**Features**
 
-Built with features including AI roleplay, debate, group discussion, practice analysis and interactive simulations.
+* AI Roleplay
+* Debate
+* Group Discussion
+* Voice analysis
+* Practice feedback
 
-`Next.js` · `React` · `Python` · `Supabase` · `AI APIs`
+**Stack**
 
----
+`Next.js` `React` `Python` `Supabase`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## `03 — NCDC E-LOAN SAMIKSHA`
 
-> **A real-world loan recovery management system.**
+**Government loan-recovery system**
 
-Built during my internship for a government-related workflow involving cooperative sugar factories and NCDC-financed loans.
+Built during my internship for a workflow involving cooperative sugar factories and NCDC-financed loans.
 
-The system handles different roles and workflows instead of putting everything behind one generic dashboard.
+**Handles**
 
-```text
-ADMIN
-FACTORY
-AUDITOR
-RID
-STATE OFFICER
-   │
-   ▼
-ROLE-BASED ACCESS
-   │
-   ▼
-LOANS · BANK · DOCUMENTS
-   │
-   ▼
-RECOVERY TRACKING
-```
+`Admin` · `Factory` · `Auditor` · `RID` · `State Officer`
 
-`FastAPI` · `React` · `Supabase / PostgreSQL`
+**Stack**
 
----
+`FastAPI` `React` `Supabase / PostgreSQL`
 
-## `04 — IoT / CLOUD BUILDS`
+</td>
 
-My IoT work started with hardware and gradually moved toward connecting devices with cloud services.
+<td width="50%" valign="top">
 
-Worked with:
+## `04 — IoT / CLOUD`
 
-`Raspberry Pi Pico` · `ThingSpeak` · `Blynk` · `AWS IoT Core`
+**Hardware + cloud experimentation**
 
-Training project: **Mastering IoT with Cloud Applications**
+Explored connecting hardware with cloud platforms during IoT training.
+
+**Worked with**
+
+`Raspberry Pi Pico`
+`ThingSpeak`
+`Blynk`
+`AWS IoT Core`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `04 // EXPERIENCE`
+## `04 // EXPERIENCE`
 
-### `FULL-STACK DEVELOPER INTERN`
+<table>
+<tr>
 
-**Deavnet Solutions Pvt. Ltd.**
-`6 months`
+<td width="65%" valign="top">
 
-Worked in a **4-person full-stack team**, contributing to web applications and a government project.
+### Full-Stack Developer Intern
+
+**Deavnet Solutions Pvt. Ltd.** · `6 months`
+
+Worked in a **4-person development team**, contributing to full-stack applications and a government project.
 
 ```text
 React
@@ -201,105 +250,109 @@ Supabase / PostgreSQL
 Deployment
 ```
 
-The internship exposed me to something tutorials don't:
+Worked with changing requirements, debugging, API development, database integration and real project workflows.
 
-**changing requirements, unexpected bugs, debugging someone else's code, and making features work in an actual project.**
+</td>
 
----
+<td width="35%" valign="top">
 
-# `05 // HACKATHON.LOG`
+### `ENVIRONMENT`
 
-```text
-2026
-│
-├── 🏆 VES TECHNITHON
-│      24-hour state-level hackathon
-│      Winner — Grand Finale
-│
-└── 🥈 DIPEX
-       Open Innovation
-       2nd Prize — State Level
-```
+`React`
 
-Hackathons are where I enjoy working the most.
+`FastAPI`
 
-Short deadlines.
-Incomplete ideas.
-A team.
-A working prototype by the end.
+`Python`
 
-That's usually where the interesting stuff happens.
+`PostgreSQL`
+
+`Supabase`
+
+`Git`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `06 // CURRENT_PROCESS`
+## `05 // ACHIEVEMENTS`
 
-```text
-$ tail -f learning.log
+<table>
+<tr>
 
-[+] DSA
-[+] Backend Development
-[+] Database Design
-[+] API Development
-[+] Security Fundamentals
-[+] Open Source
-[+] Building better projects
-```
+<td align="center" width="50%">
 
-Currently going deeper into **backend development, DSA and security**, while continuing to build projects and participate in hackathons.
+### 🏆 VES TECHNITHON 2026
+
+**Winner — Grand Finale**
+
+24-hour
+State-Level Hackathon
+
+</td>
+
+<td align="center" width="50%">
+
+### 🥈 DIPEX 2026
+
+**2nd Prize**
+
+Open Innovation
+State-Level Competition
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `07 // HOW I BUILD`
-
-I don't follow the:
-
-```text
-tutorial → copy → paste → done
-```
-
-workflow.
-
-Mine is usually closer to:
-
-```text
-        IDEA
-          │
-          ▼
-       BUILD IT
-          │
-          ▼
-      SOMETHING
-       BREAKS
-          │
-          ▼
-       DEBUG IT
-          │
-          ▼
-     UNDERSTAND WHY
-          │
-          ▼
-       FIX IT
-          │
-          ▼
-      BUILD BETTER
-```
-
-That's probably where I've learned the most.
-
+## `06 // CURRENTLY`
 
 <div align="center">
 
+```text
+nikita@dev:~/learning$ cat current.log
+
+→ DSA
+→ Backend Development
+→ Database Design
+→ API Development
+→ Security Fundamentals
+→ Open Source
+→ Better Projects
+
+[ still building... ]
+```
+
+</div>
+
+---
+
+## `07 // BUILD LOOP`
+
+<div align="center">
+
+`IDEA` → `BUILD` → `BREAK` → `DEBUG` → `UNDERSTAND` → `REBUILD`
+
 ### `BUILD. BREAK. DEBUG. REPEAT.`
+
+</div>
+
+---
+
+<div align="center">
+
+### `nikita@dev:~$ echo "let's build something interesting."`
 
 <br>
 
-<a href="https://github.com/NikitaNale06">
-  <img src="https://img.shields.io/badge/GitHub-NikitaNale06-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/@NikitaNale06-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NikitaNale06)
 
 <br><br>
 
-`Pune, India` · `Computer Engineering` · `2026`
+`Computer Engineering` · `Pune, India` · `2026`
 
 </div>
