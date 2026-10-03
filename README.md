@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About
 
-I build **real applications** where frontend, backend and databases meet real-world problems. 2nd-year B.Tech Computer Engineering student at **AISSMS IOIT**, focused on **backend, DSA and security**.
+2nd-year B.Tech Computer Engineering student at AISSMS IOIT, Pune. I build practical full-stack applications and enjoy figuring out what happens behind the UI — APIs, databases, backend logic and security.
 
 <br>
 
@@ -40,7 +40,7 @@ I build **real applications** where frontend, backend and databases meet real-wo
 <tr>
 <td>
 
-### 🏛️ NCDC E-Loan Samiksha &nbsp;![Live](https://img.shields.io/badge/STATUS-LIVE-00ff88?style=flat-square)
+### 🏛️ NCDC E-Loan Samiksha &nbsp;
 
 **Government loan-recovery portal for cooperative sugar factories**
 
