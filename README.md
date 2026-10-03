@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:0b3d2e,100:00ff88&text=NIKITA%20NALE&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Building%20Real-World%20Software&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/NikitaNale06">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Live+government+project+%E2%9C%85;State-level+hackathon+winner+%F0%9F%8F%86;6-month+full-stack+internship+%F0%9F%92%BC;B.Tech+CE+%C2%B7+AISSMS+IOIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+things.;Breaking+things.;Understanding+why.;Building+them+better." alt="Typing SVG" />
 </a>
 
 <br>
